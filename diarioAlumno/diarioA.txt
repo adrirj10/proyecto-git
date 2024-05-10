@@ -3,3 +3,5 @@ Aquí viene tu diario
 Este es mi diario añadiendo
 una nueva funcionalidad
 
+Esta es una segundad funcionalidad que
+he añadadido despues
